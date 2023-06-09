@@ -9,7 +9,7 @@ My configuration of Nvim for Competitive Programming
 En este proyecto veras un configuracion básica y sencilla para programacion competitiva en C++.
 
 ## Configuración
-**Antes de cualquier cosa debees tener en cuenta que uso Nvim desde WSL(windows subsystem for linux desde windows 11)**
-"Este programa sirve tanto para linux nativo como cuando usas nvim desde WSL"
+**Antes de cualquier cosa debes tener en cuenta que uso Nvim desde WSL(windows subsystem for linux desde windows 11)**
+"Esta configuración tambien sirve para linux nativo ".
 
 
