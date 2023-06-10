@@ -1,6 +1,6 @@
 # Nvim-Set_Up_of_C-P
 My configuration of Nvim for Competitive Programming 
-**Primero debes tener nvim instalado se peude desde la versión 0.7.2 en adelante **
+**Primero debes tener nvim instalado mínimo desde la versión 0.7.2 en adelante **
 ## Tabla de Contenidos
 - [Inicio](#inicio)
 - [Recomendación](#configuración)
